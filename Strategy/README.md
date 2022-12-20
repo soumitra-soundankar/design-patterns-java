@@ -19,4 +19,4 @@ Here what are families of algorithms
 1. Make behaviour as an Interface in this case Weapon
 2. Make model as an Abstract class in this case Character
 3. Abstract class _HAS-A_ Interface Reference
-4. 
+
