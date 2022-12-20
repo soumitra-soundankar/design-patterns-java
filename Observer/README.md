@@ -1,6 +1,8 @@
 ## Observer Design Pattern
 
-***Definition*** : 
+***Definition*** : Observer defines one to many relationship between objects so that one object state gets changed, all its dependent should be notified and updated.
+
+
 ***OO Principles*** : 
 1. Encapsulate what varies.
 2. Favor composition over inheritance. 
