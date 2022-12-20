@@ -1,4 +1,4 @@
-package com.nofear.pattern.strategy;
+package com.nofear.pattern.strategy.model;
 
 import com.nofear.pattern.strategy.behaviour.Weapon;
 
