@@ -18,6 +18,7 @@ So all addons are nothing but the decorators for a laptop.
 1. We can have a base component and decorator base component as an interface or an abstract class.
 2. Multiple variation of base component will inherit base component and implement default methods.
 3. Decorator component should inherit base component and Decorator component should have base component reference.
+4. Each decorator should handle previous state for an object before assigning new state.
 
 ***Disadvantages*** :
 1. May result into multiple small object and overuse of those can be complex.
